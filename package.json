@@ -1,0 +1,16 @@
+{
+  "name": "skksmongo",
+  "version": "1.0.0",
+  "description": "A repo to store skks data to mongodb",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axois": "^0.0.1-security",
+    "express": "^4.21.0"
+  }
+}
